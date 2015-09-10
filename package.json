@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Champii/InfiniteList/issues"
   },
-  "homepage": "https://github.com/Champii/InfiniteList#readme"
+  "homepage": "https://github.com/Champii/InfiniteList#readme",
+  "dependencies": {
+    "livescript": "^1.4.0"
+  }
 }
